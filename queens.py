@@ -1,4 +1,5 @@
-
+#Student Name :- Hitarth Upadhyay
+#Student Enrollment No :- 92600584069
 # N-Queens Problem
 # No two queens can be in the same row, column, or diagonal
 
