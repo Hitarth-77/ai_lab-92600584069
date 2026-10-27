@@ -1,4 +1,5 @@
-
+#Student Name :- Hitarth Upadhyay
+#Student Enrollment No :- 92600584069
 # Two Player Tic-Tac-Toe Game
 # Using Heuristic Function
 
