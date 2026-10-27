@@ -1,3 +1,5 @@
+#Student Name :- Hitarth Upadhyay
+#Student Enrollment No :- 92600584069
 CAP_A = 4 
 CAP_B = 3 
 GOAL = 2 
